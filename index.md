@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <!--<h1 style="color:Tomato;text-align:center;">Machine Learning and Natural Language Processing research</h1> -->
 
 <h2>About me</h2>
