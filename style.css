@@ -9,3 +9,7 @@ h1, h2, p, span, ul {
 ul li {
   margin-top: 17px;
 }
+
+span.icon {
+  margin-right: 5px;
+}
