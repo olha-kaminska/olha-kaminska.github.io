@@ -20,7 +20,7 @@ layout: default
 <p>I received Bachelor's degree in System Analysis at the National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute” (2017) and Master's degree in Computer Science at Tartu University (2019). I have work experience related to text processing as a Data Scientist in Ukrainian and Estonian startups.</p>
 <p>Currently, I am an interdisciplinary Ph.D. student in CWI lab and LT3 (Language and Translation Technology Team) group at Ghent University. My work is related to the application of fuzzy rough sets in machine learning methods for sentiment analysis and emotion detection.</p>
 <p>You can find some of my progects on <a href="https://github.com/olha-kaminska">my GitHub page</a>.</p> 
-<p>My Ghent University pages:</a> <a href="https://cwi.ugent.be/research/team/olha-kaminska.php">CWI</a> and <a href="https://www.lt3.ugent.be/people/olha-kaminska">LT3</a> labs.</p> 
+<p>My Ghent University pages: <a href="https://cwi.ugent.be/research/team/olha-kaminska.php">CWI</a> and <a href="https://www.lt3.ugent.be/people/olha-kaminska">LT3</a> labs.</p> 
 
 <h2 >Contact me</h2>
 <div class="main-text">
