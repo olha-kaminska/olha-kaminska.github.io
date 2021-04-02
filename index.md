@@ -13,7 +13,7 @@ layout: default
 <p class="main-text"> My main focuses since my master's studies were machine learning and data analysis. The particular field
 of interest to me is natural language understanding, in which I have relevant publications, work experience, several
 public speeches, and study projects. Currently, I am a Ph.D. student, my research area is sentiment
-analysis solutions using fuzzy-rough sets theory.</p>
+analysis problem solutions using fuzzy-rough sets theory.</p>
   
 <h4>My fields of interest:</h4>
 <div class="main-text">
