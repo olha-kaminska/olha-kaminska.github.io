@@ -4,6 +4,7 @@ h1, h2, p, span, ul {
 
 .main-text {
   margin-top: 10px;
+  align: justify;
 }
 
 ul li {
