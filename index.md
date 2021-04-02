@@ -2,6 +2,12 @@
 layout: default
 ---
 <!--<h1 style="color:Tomato;text-align:justify;">Machine Learning and Natural Language Processing research</h1> -->
+<style>
+p {
+  margin-top: 10px;
+  text-align: justify;
+}
+</style>
 
 <h2>About me</h2>
 <div style="line-height:15px">
