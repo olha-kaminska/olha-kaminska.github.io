@@ -2,10 +2,7 @@
 layout: default
 ---
 <!--<h1 style="color:Tomato;text-align:justify;">Machine Learning and Natural Language Processing research</h1> -->
-<style>
-p {
-  margin-top: 10px;
-  text-align: justify;
+<!--<p.main-text style="margin-top: 10px;text-align: justify;"></p.main-text> -->
 }
 </style>
 
