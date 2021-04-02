@@ -3,9 +3,9 @@ layout: default
 ---
 <!--<h1 style="color:Tomato;text-align:center;">Machine Learning and Natural Language Processing research</h1> -->
 
-<img  align="left" width="100" height="100" src="me.jpg" alt="Portrait" class="inline"/>
-
 <h2>About me</h2>
+
+<img  align="left" width="200" height="200" src="me.jpg" alt="Portrait" class="inline"/>
 
 <p class="main-text">Hi, my name is Olha Kaminska, I am a Ph.D. student at Ghent University and ML/NLP researcher.</p>
 <p class="main-text">My main focuses since my master's studies were machine learning and data analysis. The particular field
