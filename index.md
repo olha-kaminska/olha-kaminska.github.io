@@ -3,7 +3,7 @@ layout: default
 ---
 <!--<h1 style="color:Tomato;text-align:center;">Machine Learning and Natural Language Processing research</h1> -->
 
-<img src="me.jpg" alt="hi" class="inline"/>
+<img  align="left" width="100" height="100" src="me.jpg" alt="Portrait" class="inline"/>
 
 <h2>About me</h2>
 
