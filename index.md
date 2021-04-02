@@ -5,10 +5,10 @@ layout: default
 
 <h2>About me</h2>
 
-<img  align="left" width="200" height="200" src="me.jpg" alt="Portrait" class="inline"/>
+<img style="display:block" align="left" width="200" height="200" src="me.jpg" alt="Portrait" class="inline"/>
 
-<p class="main-text">Hi, my name is Olha Kaminska, I am a Ph.D. student at Ghent University and ML/NLP researcher.</p>
-<p class="main-text">My main focuses since my master's studies were machine learning and data analysis. The particular field
+<p class="main-text"> Hi, my name is Olha Kaminska, I am a Ph.D. student at Ghent University and ML/NLP researcher.</p>
+<p class="main-text"> My main focuses since my master's studies were machine learning and data analysis. The particular field
 of interest to me is natural language understanding, in which I have relevant publications, work experience, several
 public speeches, and study projects. Currently, I am a Ph.D. student, and my research area is sentiment
 analysis problem solutions using fuzzy-rough sets theory.</p>
