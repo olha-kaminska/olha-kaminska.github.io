@@ -7,7 +7,7 @@ layout: default
 
 <h2>About me</h2>
 <div style="line-height:10px">
-<img style="display:block" align="left" width="190" height="190" src="me.jpg" alt="Portrait" class="inline"/>
+<img style="display:block" align="left" width="150" height="150" src="me.jpg" alt="Portrait" class="inline"/>
 </div>
 
 <p class="main-text"> Hi, my name is Olha Kaminska, I am a Ph.D. student at Ghent University and ML/NLP researcher.</p>
