@@ -12,7 +12,7 @@ layout: default
 
 <p class="main-text"> Hi, my name is Olha Kaminska, I am a Ph.D. student at Ghent University and ML/NLP researcher.</p>
 <p class="main-text"> My main focuses since my master's studies were machine learning and data analysis. The particular field
-of interest to me is natural language understanding, where I have relevant publications, work experience, several
+of interest to me is natural language understanding, where I have publications, work experience, several
 public speeches, and study projects. Currently, I am a Ph.D. student, my research area is sentiment
 analysis problem solutions using fuzzy-rough sets theory.</p>
   
