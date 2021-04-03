@@ -16,7 +16,7 @@ of interest to me is natural language understanding, where I have publications, 
 public speeches, and study projects. Currently, I am a Ph.D. student, my research area is sentiment
 analysis problem solutions using fuzzy-rough sets theory.</p>
   
-  
+<p class="main-text">  </p> 
 <h4>My fields of interest:</h4>
 <div class="main-text">
   <ul>
