@@ -5,6 +5,8 @@ layout: default
 <!--<p.main-text style="margin-top:10px;text-align:justify;"></p.main-text>-->
 <!--<p style="margin-top:10px;text-align:justify;"></p>-->
 
+<h5><a href="https://olha-kaminska.github.io/Olha_Kaminska_CV.pdf">CV</a> <a href="https://olha-kaminska.github.io/blog.md">Blog</a></h5>
+
 <h2>About me</h2>
 <div style="line-height:10px">
 <img style="display:block" align="left" width="170" height="170" src="me.jpg" alt="Portrait" class="inline"/>
@@ -32,7 +34,6 @@ analysis problem solutions using fuzzy-rough sets theory.</p>
 <h4>Links:</h4>
 <div class="main-text">
   <ul>
-    <li><p class="main-text"> More details in <a href="https://olha-kaminska.github.io/Olha_Kaminska_CV.pdf"> my CV</a>.</p> </li>
     <li><p class="main-text">Some of my progects: <a href="https://github.com/olha-kaminska">on my GitHub page</a>.</p> </li>
     <li><p class="main-text">My Ghent University pages: <a href="https://cwi.ugent.be/research/team/olha-kaminska.php">CWI</a> and <a href="https://www.lt3.ugent.be/people/olha-kaminska">LT3</a> labs.</p> </li>
   </ul>
