@@ -5,7 +5,7 @@ layout: default
 <!--<p.main-text style="margin-top:10px;text-align:justify;"></p.main-text>-->
 <!--<p style="margin-top:10px;text-align:justify;"></p>-->
 
-<h5><a href="https://olha-kaminska.github.io/Olha_Kaminska_CV.pdf">CV</a> <a href="https://olha-kaminska.github.io/blog.md">Blog</a></h5>
+<h5><a href="https://olha-kaminska.github.io/Olha_Kaminska_CV.pdf">CV</a> <a href="https://olha-kaminska.github.io/blog.html">Blog</a></h5>
 
 <h2>About me</h2>
 <div style="line-height:10px">
