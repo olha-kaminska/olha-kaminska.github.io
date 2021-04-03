@@ -1,6 +1,50 @@
+#theme: jekyll-theme-slate
+#title: Welcome to Olha Kaminska homepage!
+#description: My personal blog about my experience during a PhD study in areas of Machine Learning and Natural Language Processing
+#email: Olha.Kaminska@uGent.be
+#url: "http://olha-kaminska.github.io"
+#github_username:  olha-kaminska
+# Site wide configuration
+
 theme: jekyll-theme-slate
-title: Welcome to Olha Kaminska homepage!
-description: My personal blog about my experience during a PhD study in areas of Machine Learning and Natural Language Processing
-email: Olha.Kaminska@uGent.be
 url: "http://olha-kaminska.github.io"
-github_username:  olha-kaminska
+
+title: Welcome to Olha Kaminska homepage!
+locale: en_US
+#logo: # filename of a logo image that has been placed into your images directory
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Olha Kaminska
+  avatar: me.jpg
+  bio: "My personal blog about my experience during a PhD study in areas of Machine Learning and Natural Language Processing"
+  email: Olha.Kaminska@uGent.be
+  # Do not include the @ symbol in your Twitter username
+  twitter: #laderast
+  linkedin: olha-kaminska-97027513a
+  github: olha-kaminska
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: Olha-Kaminska
+  mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: Olha Kaminska
+  facebook: olha.kaminska.399
+  instagram: #username
+  bing-verify:
+  stackoverflow: 8662427/o-kaminska
+  xing: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  disqus-shortname:
