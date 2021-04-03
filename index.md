@@ -6,11 +6,11 @@ layout: default
 <!--<p style="margin-top:10px;text-align:justify;"></p>-->
 
 <h2>About me</h2>
-<div style="line-height:14px">
+<div style="line-height:10px">
 <img style="display:block" align="left" width="200" height="200" src="me.jpg" alt="Portrait" class="inline"/>
 </div>
 
-<p class="main-text"> Hi, my name is Olha Kaminska, I am a Ph.D. student at Ghent University and ML/NLP researcher.</p>
+<p class="main-text"> 1Hi, my name is Olha Kaminska, I am a Ph.D. student at Ghent University and ML/NLP researcher.</p>
 <p class="main-text"> My main focuses since my master's studies were machine learning and data analysis. The particular field
 of interest to me is natural language understanding, where I have publications, work experience, several
 public speeches, and study projects. Currently, I am a Ph.D. student, my research area is sentiment
