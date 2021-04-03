@@ -6,7 +6,7 @@
 #github_username:  olha-kaminska
 # Site wide configuration
 
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
 url: "http://olha-kaminska.github.io"
 
 title: Welcome to Olha Kaminska homepage!
