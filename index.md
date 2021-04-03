@@ -6,7 +6,7 @@ layout: default
 <!--<p style="margin-top:10px;text-align:justify;"></p>-->
 
 <h2>About me</h2>
-<div style="line-height:15px">
+<div style="line-height:14px">
 <img style="display:block" align="left" width="200" height="200" src="me.jpg" alt="Portrait" class="inline"/>
 </div>
 
