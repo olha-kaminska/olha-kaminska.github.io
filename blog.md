@@ -15,11 +15,11 @@ layout: default
 
 ***Year:** 2021*
 
-***Link:** https://aclanthology.org/2021.wassa-1.22/*
+***Link:** [https://aclanthology.org/2021.wassa-1.22/](https://aclanthology.org/2021.wassa-1.22/)*
 
-***Code:** https://github.com/olha-kaminska/wknn_emotion_detection*
+***Code:** [https://github.com/olha-kaminska/wknn_emotion_detection](https://github.com/olha-kaminska/wknn_emotion_detection)*
 
-***Poster:** https://olha-kaminska.github.io/WASSA2021_poster_Olha_Kaminska.pdf*
+***Poster:** [https://olha-kaminska.github.io/WASSA2021_poster_Olha_Kaminska.pdf](https://olha-kaminska.github.io/WASSA2021_poster_Olha_Kaminska.pdf)*
 
 This paper was presented at <a href="https://2021.eacl.org/">EACL 2021</a> during <a href="https://wt-public.emm4u.eu/wassa2021/">WASSA workshop</a> as a poster.
 
@@ -29,7 +29,6 @@ Here you can check <a href="https://competitions.codalab.org/competitions/17751"
 *Emotion detection is an important task that can be applied to social media data to discover new knowledge. While the use of deep learning methods for this task has been prevalent, they are black-box models, making their decisions hard to interpret for a human operator. Therefore, in this paper, we propose an approach using weighted k Nearest Neighbours (kNN), a simple, easy to implement, and explainable machine learning model. These qualities can help to enhance results' reliability and guide error analysis. In particular, we apply the weighted kNN model to the shared emotion detection task in tweets from SemEval-2018. Tweets are represented using different text embedding methods and emotion lexicon vocabulary scores, and classification is done by an ensemble of weighted kNN models. Our best approaches obtain results competitive with state-of-the-art solutions and open up a promising alternative path to neural network methods.*
 
 **BibTeX citation:**
-
 *@inproceedings{kaminska2021nearest,
   title={Nearest neighbour approaches for Emotion Detection in Tweets},
   author={Kaminska, Olha and Cornelis, Chris and Hoste, Veronique},
@@ -46,9 +45,9 @@ Here you can check <a href="https://competitions.codalab.org/competitions/17751"
 
 ***Year:** 2021*
 
-***Link:** https://link.springer.com/chapter/10.1007/978-3-030-87334-9_20*
+***Link:** [https://link.springer.com/chapter/10.1007/978-3-030-87334-9_20](https://link.springer.com/chapter/10.1007/978-3-030-87334-9_20)*
 
-***Code:** https://github.com/olha-kaminska/frnn_emotion_detection*
+***Code:** [https://github.com/olha-kaminska/frnn_emotion_detection](https://github.com/olha-kaminska/frnn_emotion_detection)*
 
 This paper was presented at [IJCRS 2021](http://ifsa-eusflat2021.eu/ijcrs_conf.html) conference, organized jointly with [IFSA-EUSFLAT 2021](http://ifsa-eusflat2021.eu/). The problem is again based on [SemEval-2018 Task 1: Affect in Tweets](https://competitions.codalab.org/competitions/17751) competition, particularly, the ordinal classification Task "EI-oc": Detecting Emotion Intensity.
 
@@ -57,7 +56,6 @@ This paper was presented at [IJCRS 2021](http://ifsa-eusflat2021.eu/ijcrs_conf.h
 *Specifically, we develop an approach for the SemEval-2018 emotion detection task, based on the fuzzy rough nearest neighbour (FRNN) classifier enhanced with ordered weighted average (OWA) operators. We use tuned ensembles of FRNN-OWA models based on different text embedding methods. Our results are competitive with the best SemEval solutions based on more complicated deep learning methods.*
 
 **BibTeX citation:**
-
 *@inproceedings{kaminska2021fuzzy,
   title={Fuzzy-Rough Nearest Neighbour Approaches for Emotion Detection in Tweets},
   author={Kaminska, Olha and Cornelis, Chris and Hoste, Veronique},
@@ -75,11 +73,11 @@ This paper was presented at [IJCRS 2021](http://ifsa-eusflat2021.eu/ijcrs_conf.h
 
 ***Year:** 2022*
 
-***Link:** https://aclanthology.org/2022.semeval-1.138/*
+***Link:** [https://aclanthology.org/2022.semeval-1.138/](https://aclanthology.org/2022.semeval-1.138/)*
 
-***Code:** https://github.com/olha-kaminska/frnn_emotion_detection/tree/iSarcasmEval*
+***Code:** [https://github.com/olha-kaminska/frnn_emotion_detection/tree/iSarcasmEval](https://github.com/olha-kaminska/frnn_emotion_detection/tree/iSarcasmEval)*
 
-***Poster:** https://github.com/olha-kaminska/frnn_emotion_detection/blob/5bc16e940849eeaf9f19c06380c89df955a52e82/iSarcasm_poster.pdf*
+***Poster:** [https://github.com/olha-kaminska/frnn_emotion_detection/blob/5bc16e940849eeaf9f19c06380c89df955a52e82/iSarcasm_poster.pdf](https://github.com/olha-kaminska/frnn_emotion_detection/blob/5bc16e940849eeaf9f19c06380c89df955a52e82/iSarcasm_poster.pdf)*
 
 The paper presents our solution for [SemEval 2022 - Task 6 (iSarcasmEval):](https://codalab.lisn.upsaclay.fr/competitions/1340) Intended Sarcasm Detection In English and Arabic. We participated in the SubTask A: given a text, determine whether it is sarcastic or non-sarcastic. Our solution took 9-th place on the competition leaderboard. 
 
@@ -87,7 +85,6 @@ The paper presents our solution for [SemEval 2022 - Task 6 (iSarcasmEval):](http
 *This paper describes the approach developed by the LT3 team in the Intended Sarcasm Detection task at SemEval-2022 Task 6. We considered the binary classification subtask A for English data. The presented system is based on the fuzzy-rough nearest neighbor classification method using various text embedding techniques. Our solution reached 9th place in the official leader-board for English subtask A.*
 
 **BibTeX citation:**
-
 *@inproceedings{kaminska2022lt3,
   title={LT3 at SemEval-2022 Task 6: Fuzzy-Rough Nearest Neighbor Classification for Sarcasm Detection},
   author={Kaminska, Olha and Cornelis, Chris and Hoste, Veronique},
@@ -106,7 +103,7 @@ The paper presents our solution for [SemEval 2022 - Task 6 (iSarcasmEval):](http
 
 ***Link:** TBA*
 
-***Code:** https://github.com/olha-kaminska/frnn_emotion_detection/tree/emotions_irony_hatespeech*
+***Code:** [https://github.com/olha-kaminska/frnn_emotion_detection/tree/emotions_irony_hatespeech](https://github.com/olha-kaminska/frnn_emotion_detection/tree/emotions_irony_hatespeech)*
 
 This paper was sumbitted to the [Information Sciences](https://www.sciencedirect.com/journal/information-sciences) journal.
 
