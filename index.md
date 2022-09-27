@@ -39,7 +39,8 @@ public speeches, and study projects. Currently, my research area is about an app
 
 <h2>Contact me</h2>
 <div class="main-text">
-  <ul>
+  <ul>    
+    <li><a href="https://twitter.com/olha_kaminska">Twitter</a></li>
     <li><a href="https://www.facebook.com/olha.kaminska.399">Facebook</a></li>
     <li><a href="https://www.linkedin.com/in/olha-kaminska-97027513a/">LinkedIn</a></li>
     <li><div class="links">
