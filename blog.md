@@ -7,8 +7,6 @@ layout: default
 
 <h2>List of my papers</h2>
 
-------------------------------------------------------------------
-
 <h3>"Nearest neighbour approaches for Emotion Detection in Tweets"</h3>
 
 ***Authors:** [Olha Kaminska](https://scholar.google.com/citations?hl=en&user=yRgJkEwAAAAJ), [Chris Cornelis](https://scholar.google.com/citations?hl=en&user=ln46HlkAAAAJ), and [Veronique Hoste](https://scholar.google.com/citations?hl=en&user=WxOsW3IAAAAJ)*
@@ -29,7 +27,7 @@ Here you can check <a href="https://competitions.codalab.org/competitions/17751"
 *Emotion detection is an important task that can be applied to social media data to discover new knowledge. While the use of deep learning methods for this task has been prevalent, they are black-box models, making their decisions hard to interpret for a human operator. Therefore, in this paper, we propose an approach using weighted k Nearest Neighbours (kNN), a simple, easy to implement, and explainable machine learning model. These qualities can help to enhance results' reliability and guide error analysis. In particular, we apply the weighted kNN model to the shared emotion detection task in tweets from SemEval-2018. Tweets are represented using different text embedding methods and emotion lexicon vocabulary scores, and classification is done by an ensemble of weighted kNN models. Our best approaches obtain results competitive with state-of-the-art solutions and open up a promising alternative path to neural network methods.*
 
 **BibTeX citation:**
-*@inproceedings{kaminska2021nearest,
+>*@inproceedings{kaminska2021nearest,
   title={Nearest neighbour approaches for Emotion Detection in Tweets},
   author={Kaminska, Olha and Cornelis, Chris and Hoste, Veronique},
   booktitle={Proceedings of the Eleventh Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis},
@@ -56,7 +54,7 @@ This paper was presented at [IJCRS 2021](http://ifsa-eusflat2021.eu/ijcrs_conf.h
 *Specifically, we develop an approach for the SemEval-2018 emotion detection task, based on the fuzzy rough nearest neighbour (FRNN) classifier enhanced with ordered weighted average (OWA) operators. We use tuned ensembles of FRNN-OWA models based on different text embedding methods. Our results are competitive with the best SemEval solutions based on more complicated deep learning methods.*
 
 **BibTeX citation:**
-*@inproceedings{kaminska2021fuzzy,
+>*@inproceedings{kaminska2021fuzzy,
   title={Fuzzy-Rough Nearest Neighbour Approaches for Emotion Detection in Tweets},
   author={Kaminska, Olha and Cornelis, Chris and Hoste, Veronique},
   booktitle={International Joint Conference on Rough Sets},
@@ -85,7 +83,7 @@ The paper presents our solution for [SemEval 2022 - Task 6 (iSarcasmEval):](http
 *This paper describes the approach developed by the LT3 team in the Intended Sarcasm Detection task at SemEval-2022 Task 6. We considered the binary classification subtask A for English data. The presented system is based on the fuzzy-rough nearest neighbor classification method using various text embedding techniques. Our solution reached 9th place in the official leader-board for English subtask A.*
 
 **BibTeX citation:**
-*@inproceedings{kaminska2022lt3,
+>*@inproceedings{kaminska2022lt3,
   title={LT3 at SemEval-2022 Task 6: Fuzzy-Rough Nearest Neighbor Classification for Sarcasm Detection},
   author={Kaminska, Olha and Cornelis, Chris and Hoste, Veronique},
   booktitle={Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)},
