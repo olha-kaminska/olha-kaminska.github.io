@@ -62,8 +62,6 @@ The paper presents our solution for [SemEval 2022 - Task 6 (iSarcasmEval):](http
 
 ***Authors:** [Olha Kaminska](https://scholar.google.com/citations?hl=en&user=yRgJkEwAAAAJ), [Chris Cornelis](https://scholar.google.com/citations?hl=en&user=ln46HlkAAAAJ), and [Veronique Hoste](https://scholar.google.com/citations?hl=en&user=WxOsW3IAAAAJ)*
 
-***Year:** 2021*
-
 ***Link:** [https://link.springer.com/chapter/10.1007/978-3-030-87334-9_20](https://link.springer.com/chapter/10.1007/978-3-030-87334-9_20)*
 
 ***Code:** [https://github.com/olha-kaminska/frnn_emotion_detection](https://github.com/olha-kaminska/frnn_emotion_detection)*
