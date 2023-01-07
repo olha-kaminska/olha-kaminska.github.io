@@ -13,8 +13,8 @@ layout: default
 </div>
 
 <p class="main-text"> Hi, my name is Olha Kaminska, I am a Ph.D. student at Ghent University and ML/NLP researcher.</p>
-<p class="main-text"> My main focuses since my master's studies were machine learning and data analysis. My particular specialization is in natural language understanding, where I have publications, work experience, several
-public speeches, and study projects. Currently, my research area is about an application of fuzzy-rough-based nearest-neighbours approaches to the labelled Twitter data to detect emotions (hate, sarcasm, joy, etc.) in an explainable way.</p>
+<p class="main-text"> My main focuses since my master's studies were machine learning and data analysis. My particular specialization is in natural language understanding, where I have publications, work experience, and several
+public speeches. Currently, my research is about an application of fuzzy-rough-based nearest-neighbours approaches to the labelled Twitter data to detect emotions in an explainable way.</p>
   
 <p class="main-text">  </p> 
 <h4>My fields of interest:</h4>
